@@ -14,11 +14,11 @@ This is sample project to test the azure open ai access with managed identity au
 **Example: Run the application from VM enabled with managed identity**
 
 1. Enable managed identity in Azure VM
-![alt text](image.png)
+![alt text](docs/image.png)
 
 2. Assign this identity with **_Cognitive Services OpenAI Contributor_** role in Open AI service
-![alt text](image-1.png)
+![alt text](docs/image-1.png)
 
 3. Install required dependencies and run the application code in VM
 
-    ![alt text](image-3.png)
+    ![alt text](docs/image-3.png)
